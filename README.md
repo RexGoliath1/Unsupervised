@@ -27,4 +27,4 @@ Large Number of Samples
 ## Isomap
 Small Number of Samples
 ## Spectral Embedding
-#LLE
+## LLE
