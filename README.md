@@ -1,6 +1,24 @@
 # Unsupervised
 
-# PCA Visuals
+## General Preprocessing
+http://scikit-learn.org/stable/modules/preprocessing.html
+StandardScaler (Variance Scaling)
+sklearn.pipeline.Pipeline
+### Phil's Suggestion 
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html#sklearn.preprocessing.MinMaxScaler
+MinMaxScaler in preprocessing
+### Should I normalize my data?
+http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
+<br>sklearn.decomposition PCA/RandomizedPCA whiten=true to remove correlation across features
+### Vector Space Model 
+Scaling to unit norm: https://en.wikipedia.org/wiki/Vector_space_model
+### Binarization
+Thresholding numerical features to get boolean values
+### Catagorical Encoding
+OneHotEncoder (wut?)
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+
+## PCA Visuals
 Forked from : https://www.kaggle.com/tuomastik/santander-customer-satisfaction/pca-visualization/code
 
 # Clustering
