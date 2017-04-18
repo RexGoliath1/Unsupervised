@@ -5,6 +5,9 @@ Forked from : https://www.kaggle.com/tuomastik/santander-customer-satisfaction/p
 
 # Clustering
 Number of Catagories Known
+<br>Clustering Ideas:
+<br>https://stats.stackexchange.com/questions/23472/how-to-decide-on-the-correct-number-of-clusters
+<br>https://en.wikipedia.org/wiki/Dirichlet_process
 ## KMeans
 ## Spectral Clustering
 Low Dimensional Embedding, then KMeans
@@ -28,3 +31,4 @@ Large Number of Samples
 Small Number of Samples
 ## Spectral Embedding
 ## LLE
+
