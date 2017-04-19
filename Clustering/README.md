@@ -3,6 +3,7 @@ Excellent Visualization:
 https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
 
 Epsilon: Measure of Distance (Different Variants)
+Composite Distances for varied feature types
 
 Core Point: Does not contain the minimum number of required points, AND none of it's neighbors contain the required number of points.
 
