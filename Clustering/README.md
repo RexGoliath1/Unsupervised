@@ -1,10 +1,10 @@
-# Choosing the number of clusters
-
 # DBSCAN (Desity-based Spatial Clustering with Noise)
 Excellent Visualization:
 https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
 
-# Bayesian Information Criterion (BIC)
+# Choosing the number of clusters
+
+## Bayesian Information Criterion (BIC)
 Log-Likelihood of the dataset X according to model C, depending on the p parameters , and n datapoints.
 <br>X-Means: Efficient Estimation of Clusters
 http://www.aladdin.cs.cmu.edu/papers/pdfs/y2000/xmeans.pdf
