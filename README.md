@@ -1,5 +1,5 @@
 # Unsupervised
-
+![Scikit Learn Flowdown](http://scikit-learn.org/stable/_static/ml_map.png)
 ## General Preprocessing
 http://scikit-learn.org/stable/modules/preprocessing.html
 StandardScaler (Variance Scaling)
