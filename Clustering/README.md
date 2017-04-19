@@ -2,6 +2,12 @@
 Excellent Visualization:
 https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
 
+Epsilon: Measure of Distance (Different Variants)
+
+Core Point: Does not contain the minimum number of required points, AND none of it's neighbors contain the required number of points.
+
+Complexity : ~NlogN if indexing structure
+
 # Choosing the number of clusters
 
 ## Bayesian Information Criterion (BIC)
